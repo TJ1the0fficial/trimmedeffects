@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "down": "trimmedeffects:block/refinement_table_bottom",
+    "east": "trimmedeffects:block/refinement_table_side",
+    "north": "trimmedeffects:block/refinement_table_front",
+    "particle": "trimmedeffects:block/refinement_table_front",
+    "south": "trimmedeffects:block/refinement_table_front",
+    "up": "trimmedeffects:block/refinement_table_top",
+    "west": "trimmedeffects:block/refinement_table_side"
+  }
+}
