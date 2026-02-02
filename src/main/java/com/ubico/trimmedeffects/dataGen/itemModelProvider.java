@@ -66,7 +66,7 @@ public class itemModelProvider extends ItemModelProvider {
 
             withExistingParent(
                     item.getId().toString(),
-                    mcLoc("item/generated"))
+                    mcLoc("item/handheld"))
                         .texture("layer0", "item/trims/" + itemTrimType + "/" + toolType + "/" + itemTrimType + "_" + itemTrim + "_" + itemTier + "_" + toolType);
         }
     }
